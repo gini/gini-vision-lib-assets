@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="20px" viewBox="0 0 14 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>tip_iconSVG/</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M4,19 C4,19.55 4.45,20 5,20 L9,20 C9.55,20 10,19.55 10,19 L10,18 L4,18 L4,19 Z M7,1.29896094e-14 C10.86,1.29896094e-14 14,3.14 14,7 C14,9.38 12.81,11.47 11,12.74 L11,15 C11,15.55 10.55,16 10,16 L4,16 C3.45,16 3,15.55 3,15 L3,12.74 C1.19,11.47 1.01030295e-13,9.38 1.01030295e-13,7 C1.01030295e-13,3.14 3.14,1.29896094e-14 7,1.29896094e-14 Z M9.85,11.1 C11.2,10.16 12,8.63 12,7 C12,4.24 9.76,2 7,2 C4.24,2 2,4.24 2,7 C2,8.63 2.8,10.16 4.15,11.1 L5,11.7 L5,14 L9,14 L9,11.7 L9.85,11.1 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tip_icon">
+            <g>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Clip-5" fill="#FFFFFF" xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>

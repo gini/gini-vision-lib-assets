@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="27px" height="29px" viewBox="0 0 27 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>android_rotate_iconSVG/</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="99.0214445%" id="linearGradient-1">
+            <stop stop-color="#000000" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.02" offset="80%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.04" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0.12" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0.06" offset="20%"></stop>
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-3" cx="11.5" cy="11.5" r="11.5"></circle>
+        <filter x="-26.1%" y="-17.4%" width="152.2%" height="152.2%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.24 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter2" in2="SourceAlpha" operator="out" result="shadowBlurOuter2"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.12 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M6.28175179,2.42784714 L9.03571429,5.21664643 L6.27750089,8.00115088 L3.51929161,5.21664643 L6.28175179,2.42784714 Z M7.83298268,5.21664643 L6.27750089,3.64391875 L4.72627411,5.21664643 L6.28175179,6.78937616 L7.83298268,5.21664643 Z M1.17332364,2.52667732 C1.91706314,1.77039625 2.89880089,1.39225161 3.87628446,1.39225161 L3.87628446,0 L5.67826054,1.82195732 L3.87628446,3.64391875 L3.87628446,2.25166714 C3.11554714,2.25166714 2.35480736,2.54386571 1.77256523,3.13256714 C0.612331464,4.30566571 0.612331464,6.21356911 1.77256523,7.38666932 C2.35480736,7.97536829 3.11554714,8.26756932 3.87628446,8.26756932 C4.28853071,8.26756932 4.70077286,8.17733087 5.08327107,8.00544777 L5.71651036,8.64571191 C5.14276714,8.96369554 4.50952786,9.12698404 3.87628446,9.12698404 C2.89880089,9.12698404 1.91706314,8.74884186 1.17332364,7.99255668 C-0.3226555,6.48428321 -0.3226555,4.03495161 1.17332364,2.52667732 Z" id="path-5"></path>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="android_rotate_icon">
+            <g transform="translate(2.000000, 2.000000)">
+                <g id="button-bg">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <circle stroke="url(#linearGradient-1)" stroke-width="0.5" cx="11.5" cy="11.5" r="11.25"></circle>
+                    <circle stroke="url(#linearGradient-2)" stroke-width="0.5" cx="11.5" cy="11.5" r="11.25"></circle>
+                </g>
+                <g id="icon" transform="translate(7.076923, 6.487179)">
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <polygon id="Fill-1" fill="#000000" mask="url(#mask-6)" points="-0.975446429 10.1537697 10.0625 10.1537697 10.0625 -1.02678489 -0.975446429 -1.02678489"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

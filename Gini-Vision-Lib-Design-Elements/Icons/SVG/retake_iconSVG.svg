@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="16px" viewBox="0 0 14 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>retake_iconSVG/</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M3.2666669,4.15151273 L10.558331,4.15151273 L10.558331,6.42424 L13.475,3.39394182 L10.558331,0.363636364 L10.558331,2.63636364 L1.8083331,2.63636364 L1.8083331,7.18181818 L3.2666669,7.18181818 L3.2666669,4.15151273 Z M10.558331,11.7272727 L3.2666669,11.7272727 L3.2666669,9.45454545 L0.35,12.4848487 L3.2666669,15.5151513 L3.2666669,13.242424 L12.016669,13.242424 L12.016669,8.69696727 L10.558331,8.69696727 L10.558331,11.7272727 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="retake_icon">
+            <g>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <polygon id="Fill-1" fill="#FFFFFF" mask="url(#mask-2)" points="-1.4 17.3333331 15.225 17.3333331 15.225 -1.45454327 -1.4 -1.45454327"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

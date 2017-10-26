@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>tick_greenSVG/</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tick_green">
+            <g>
+                <circle id="Oval" fill="#B8E986" cx="7.5" cy="7.5" r="7.5"></circle>
+                <g transform="translate(4.090909, 4.090909)" id="Combined-Shape" fill="#FFFFFF">
+                    <g>
+                        <path d="M0.739201891,4.03304843 L0.739201891,2.46400371 C0.739201891,2.28225271 0.591863593,2.13491441 0.410112591,2.13491441 L0.410112591,2.13491441 L0.410112591,2.13491441 C0.228361589,2.13491441 0.0810232906,2.28225271 0.0810232906,2.46400371 L0.0810232906,2.46400371 L0.0810232906,4.37444763 C0.0810232906,4.55619863 0.228361589,4.70353693 0.410112591,4.70353693 C0.441127089,4.70353693 0.471139526,4.69924659 0.499588779,4.69122703 L6.31070236,4.69122703 C6.49245336,4.69122703 6.63979166,4.54388873 6.63979166,4.36213773 L6.63979166,4.36213773 L6.63979166,4.36213773 C6.63979166,4.18038673 6.49245336,4.03304843 6.31070236,4.03304843 L0.739201891,4.03304843 Z" transform="translate(3.360407, 3.419226) rotate(-40.000000) translate(-3.360407, -3.419226) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

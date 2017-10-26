@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="154px" height="145px" viewBox="0 0 154 145" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>mobile_onboarding_screen_5_illustration</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Illustrations" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="mobile_onboarding_screen_5_illustration">
+            <g id="Group">
+                <g id="Group-2" transform="translate(0.000000, 34.000000)">
+                    <g id="document_right" transform="translate(65.373219, 0.000000)">
+                        <rect id="Rectangle-5" stroke="#FFFFFF" stroke-width="2" x="1" y="1" width="86.6267806" height="108.786378"></rect>
+                        <rect id="Rectangle-6" fill="#FFFFFF" x="68.685755" y="11.0786378" width="8.86267806" height="6.64718266"></rect>
+                        <rect id="Rectangle-6-Copy" fill="#FFFFFF" x="11.0783476" y="28.8044582" width="33.2350427" height="3.32359133"></rect>
+                        <rect id="Rectangle-6-Copy-2" fill="#FFFFFF" x="11.0783476" y="35.4516409" width="22.1566952" height="3.32359133"></rect>
+                        <rect id="Rectangle-6-Copy-4" fill="#FFFFFF" x="11.0783476" y="52.0695975" width="66.4700855" height="3.32359133"></rect>
+                        <rect id="Rectangle-6-Copy-3" fill="#FFFFFF" x="11.0783476" y="58.7167802" width="66.4700855" height="3.32359133"></rect>
+                        <rect id="Rectangle-6-Copy-5" fill="#FFFFFF" x="11.0783476" y="65.3639628" width="37.6663818" height="3.32359133"></rect>
+                        <rect id="Rectangle-6-Copy-6" fill="#FFFFFF" x="11.0783476" y="91.9526935" width="29.9115385" height="3.32359133"></rect>
+                    </g>
+                    <g id="document_left" transform="translate(0.000000, 9.232198)">
+                        <path d="M55.2872669,1.27641312 L14.1631696,1.27641312 L1.14468303,29.7538666 L19.9054062,57.1237126 L4.0247198,91.0455683 L54.3313561,91.0455683 L55.2872669,1.27641312 Z" id="Path-2" stroke="#FFFFFF" stroke-width="2"></path>
+                        <polygon id="Rectangle-6-Copy-7" fill="#FFFFFF" points="16.0491453 9.95087225 44.2735043 9.95087225 42.8899573 13.2678297 14.3888889 13.2678297"></polygon>
+                        <polygon id="Rectangle-6-Copy-8" fill="#FFFFFF" points="13.8354701 14.9263084 32.6517094 14.9263084 31.2681624 18.2432658 12.1752137 18.2432658"></polygon>
+                        <polygon id="Rectangle-6-Copy-12" fill="#FFFFFF" points="17.1559829 81.2654567 47.0405983 81.2654567 45.6570513 84.5824141 15.4957265 84.5824141"></polygon>
+                        <polygon id="Rectangle-6-Copy-9" fill="#FFFFFF" points="13.8354701 33.7224004 43.4458689 33.7224004 46.212963 37.0393578 16.6025641 37.0393578"></polygon>
+                        <polygon id="Rectangle-6-Copy-10" fill="#FFFFFF" points="16.6025641 39.2506628 46.212963 39.2506628 48.980057 42.5676202 19.3696581 42.5676202"></polygon>
+                        <polygon id="Rectangle-6-Copy-11" fill="#FFFFFF" points="19.3696581 44.7789251 33.4843305 44.7789251 36.2514245 48.0958825 22.1367521 48.0958825"></polygon>
+                    </g>
+                </g>
+                <g id="arrow_blue" transform="translate(58.000000, 0.000000)">
+                    <g transform="translate(19.500000, 12.000000) scale(-1, 1) translate(-19.500000, -12.000000) ">
+                        <polygon id="Path-3" fill="#009EDC" fill-rule="nonzero" points="14.6883117 1.44348185 13.3310316 0 0 12 13.3310316 24 14.6883117 22.5565182 2.96087197 12"></polygon>
+                        <path d="M2.53246753,12 L39,12" id="Line" stroke="#009EDC" stroke-width="2" stroke-linecap="square"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

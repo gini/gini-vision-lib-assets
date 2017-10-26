@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>tick_negativeSVG/</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="5.14204432 0.671164773 4.64133409 0.170454545 2.65625011 2.15554091 0.671164773 0.170454545 0.170454545 0.671164773 2.15553989 2.65625114 0.170454545 4.64133511 0.671164773 5.14204534 2.65625011 3.15696034 4.64133409 5.14204534 5.14204432 4.64133511 3.15696136 2.65625114"></polygon>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tick_negative">
+            <g>
+                <circle id="Oval" fill="#FF4F65" cx="7.5" cy="7.5" r="7.5"></circle>
+                <g id="close" transform="translate(4.772727, 4.772727)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-5"></g>
+                    <polygon id="Fill-4" fill="#FFFFFF" mask="url(#mask-2)" points="-1.53409091 6.98863636 6.98863636 6.98863636 6.98863636 -1.53409091 -1.53409091 -1.53409091"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

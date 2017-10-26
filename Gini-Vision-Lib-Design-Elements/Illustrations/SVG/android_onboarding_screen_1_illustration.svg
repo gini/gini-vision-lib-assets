@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="121px" height="208px" viewBox="0 0 121 208" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>android_onboarding_screen_1_illustration</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Illustrations" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="android_onboarding_screen_1_illustration">
+            <g id="scan_illustration">
+                <rect id="Rectangle-2" stroke="#FFFFFF" stroke-width="2" x="1" y="1" width="119" height="206" rx="16.0000009"></rect>
+                <g id="Group" transform="translate(2.000000, 8.000000)" fill="#FFFFFF">
+                    <rect id="Rectangle-3" x="0" y="8" width="117" height="2"></rect>
+                    <rect id="Rectangle-3-Copy-2" x="53" y="0" width="10" height="3" rx="1.5"></rect>
+                    <rect id="Rectangle-3-Copy" x="0" y="169" width="117" height="2"></rect>
+                </g>
+                <g id="Group-2" transform="translate(19.000000, 37.000000)">
+                    <path d="M83.9725476,121.996071 L84,121.996071 L84,99.8156813 L81.5294118,99.8156813 L81.5294118,119.528533 L61.7921583,119.528533 L61.7921583,121.999121 L83.9725476,121.999121 L83.9725476,121.996071 Z M2.47058824,119.528533 L2.47058824,99.8156813 L0,99.8156813 L0,121.996071 L0.027452395,121.996071 L0.027452395,121.999121 L22.2078417,121.999121 L22.2078417,119.528533 L2.47058824,119.528533 Z M81.5294118,2.47146732 L81.5294118,22.1843187 L84,22.1843187 L84,0.00392934902 L83.9725476,0.00392934902 L83.9725476,0.000879082904 L61.7921583,0.000879082904 L61.7921583,2.47146732 L81.5294118,2.47146732 Z M0.027452395,0.00392934902 L0,0.00392934902 L0,22.1843187 L2.47058824,22.1843187 L2.47058824,2.47146732 L22.2078417,2.47146732 L22.2078417,0.000879082904 L0.027452395,0.000879082904 L0.027452395,0.00392934902 Z" id="Combined-Shape" fill="#009EDC"></path>
+                    <rect id="Rectangle-5" stroke="#FFFFFF" stroke-width="2" x="10" y="11" width="62" height="100"></rect>
+                    <path d="M54.4444444,20 L63,20 L63,26.1403509 L54.4444444,26.1403509 L54.4444444,20 Z M19,33.5087719 L37.3333333,33.5087719 L37.3333333,34.7368421 L19,34.7368421 L19,33.5087719 Z M19,38.4210526 L31.2222222,38.4210526 L31.2222222,39.6491228 L19,39.6491228 L19,38.4210526 Z M19,51.9298246 L63,51.9298246 L63,53.1578947 L19,53.1578947 L19,51.9298246 Z M19,56.8421053 L63,56.8421053 L63,58.0701754 L19,58.0701754 L19,56.8421053 Z M19,61.754386 L50.7777778,61.754386 L50.7777778,62.9824561 L19,62.9824561 L19,61.754386 Z M19,88.7719298 L50.7777778,88.7719298 L50.7777778,90 L19,90 L19,88.7719298 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+                </g>
+                <rect id="Rectangle-7" stroke="#FFFFFF" stroke-width="2" x="55" y="186" width="11" height="11.5384615" rx="5.5"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

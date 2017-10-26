@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>alert_icon_whiteSVG/</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M6.3,9.1 L7.7,9.1 L7.7,10.5 L6.3,10.5 L6.3,9.1 Z M6.3,3.5 L7.7,3.5 L7.7,7.7 L6.3,7.7 L6.3,3.5 Z M6.993,0 C10.864,0 14,3.136 14,7 C14,10.864 10.864,14 6.993,14 C3.129,14 0,10.864 0,7 C0,3.136 3.129,0 6.993,0 Z M7,12.6 C10.094,12.6 12.6,10.094 12.6,7 C12.6,3.906 10.094,1.4 7,1.4 C3.906,1.4 1.4,3.906 1.4,7 C1.4,10.094 3.906,12.6 7,12.6 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="alert_icon_white">
+            <g>
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <polygon id="Fill-1" fill="#FFFFFF" mask="url(#mask-2)" points="-1.75 15.75 15.75 15.75 15.75 -1.75 -1.75 -1.75"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
