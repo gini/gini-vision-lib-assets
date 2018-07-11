@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="59px" height="59px" viewBox="0 0 59 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_add_image</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M30.61538,28.38462 L30.61538,16 C30.61538,15.44772 30.16767,15 29.61538,15 L29.38462,15 C28.83233,15 28.38462,15.44772 28.38462,16 L28.38462,28.38462 L16,28.38462 C15.44772,28.38462 15,28.83233 15,29.38462 L15,29.61538 C15,30.16767 15.44772,30.61538 16,30.61538 L28.38462,30.61538 L28.38462,43 C28.38462,43.55228 28.83233,44 29.38462,44 L29.61538,44 C30.16767,44 30.61538,43.55228 30.61538,43 L30.61538,30.61538 L43,30.61538 C43.55228,30.61538 44,30.16767 44,29.61538 L44,29.38462 C44,28.83233 43.55228,28.38462 43,28.38462 L30.61538,28.38462 Z M29.5,59 C13.2076,59 0,45.7924 0,29.5 C0,13.2076 13.2076,0 29.5,0 C45.7924,0 59,13.2076 59,29.5 C59,45.7924 45.7924,59 29.5,59 Z" id="path-1"></path>
+    </defs>
+    <g id="ic_add_image" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <g id="Clip-2"></g>
+        <polygon id="Fill-1" fill="#FFFFFF" mask="url(#mask-2)" points="-5 64 64 64 64 -5 -5 -5"></polygon>
+    </g>
+</svg>
